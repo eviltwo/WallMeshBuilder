@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.wall-mesh-builder",
+    "displayName": "Wall Mesh Builder",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Build wall mesh.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
